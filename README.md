@@ -1,0 +1,4 @@
+trytond.conf
+============
+
+Trytond.conf
